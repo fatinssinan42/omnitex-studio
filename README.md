@@ -2,6 +2,8 @@
 
 **Word-Simple Authoring. Pure LaTeX Power.**
 
+**Live Web App:** [https://omnitex-studio.vercel.app](https://omnitex-studio.vercel.app)
+
 **OmniTeX Studio** is a modern, bidirectional visual and code-based LaTeX authoring environment designed so anyone familiar with Microsoft Word, Notion, or Google Docs can compose publication-ready academic papers, IEEE two-column manuscripts, theses, and technical reports without memorizing raw LaTeX syntax—while giving experienced LaTeX authors 100% lossless `.tex` and `.bib` control.
 
 Created and maintained by **Fatin S Sinan** ([@fatinssinan42](https://github.com/fatinssinan42)).
